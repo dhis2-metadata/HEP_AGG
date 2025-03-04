@@ -1,6 +1,6 @@
-# Neglected Tropical Diseases (NTD) Installation Guide { #ntd-agg-installation }
+# Hepatitis Installation Guide { #hep-agg-installation }
 
-This document includes an installation guide for the Neglected Tropical Diseases package.
+This document includes an installation guide for the Hepatitis package.
 
 System default language: English
 
@@ -10,8 +10,8 @@ The metadata reference and metadata json files provide technical details on pack
 
 The metadata package consists of the following modules:
 
-- Neglected Tropical Diseases
-- Neglected Tropical Diseases (dashboard)
+- Hepatitis
+- Hepatitis  (dashboard)
 
 ## Installation
 
