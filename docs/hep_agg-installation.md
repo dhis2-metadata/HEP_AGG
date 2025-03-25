@@ -169,9 +169,9 @@ Please refer to the [DHIS2 documentation](#sharing) for more information on shar
 
 Three core user groups are included in the packages:
 
-- NTD - Access (view metadata/view data)
-- NTD - Admin (view and edit metadata/no access to data)
-- NTD - Data Capture - (view metadata/capture and view data)
+- Hepatitis - Access (view metadata/view data)
+- Hepatitis - Admin (view and edit metadata/no access to data)
+- Hepatitis - Data Capture - (view metadata/capture and view data)
 
 The users are assigned to the appropriate user group based on their role within the system. Sharing for other objects in
 the package may be adjusted depending on the set-up. Refer to the [DHIS2 Documentation on sharing](#sharing) for more
