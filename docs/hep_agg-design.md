@@ -132,6 +132,137 @@ Number of people with chronic hepatitis B infection who have been diagnosed with
 - The WHO goal for coverage of HBV diagnosis in the general population is ≥90% 
 - National representativeness: If this indicator is measured only in a subset of facilities, comments should be added on the source of information, sample size and whether the information is representative of all sites where hepatitis treatment and care are delivered
 
+#### Proportion of people with chronic hepatitis B initiating antiviral therapy
+
+Number of people diagnosed with chronic hepatitis B and eligible for treatment who have initiated antiviral therapy by the end of the reporting period divided by number of people with chronic hepatitis B infection who have been diagnosed and are eligible for treatment by the end of the reporting period
+
+*Target*: ≥80%
+
+![Proportion of people with chronic hepatitis B initiating treatment (%)](resources/images/proportion_people_chronic_hep_b_treatment.png)
+
+- The purpose of this visualisation is to observe progress towards providing treatment to all people with chronic hepatitis B, that is treatment coverage for people with hepatitis B among those eligible
+- This indicator measures the number of people with hepatitis B who were evaluated for hepatitis disease progression and found to be eligible for and placed on treatment.
+- This indicator monitors trends among people newly infected with HBV placed on antiviral therapy and provides managers with important information for forecasting the need for antiviral drugs and allocation of staff to ensure quality of care for antiviral therapy.
+- This indicator is essential to measure the programmatic targets of the path to elimination and full validation of elimination of hepatitis B as a public health threat by 2030.
+- The WHO goal for coverage of HBV treatment in the general population is ≥80% 
+- *National representativeness*: If this indicator is measured only in a subset of facilities, comments should be added on the source of information, sample size and whether the information is representative of all sites where hepatitis treatment and care are delivered
+
+#### Cascade of Care for Chronic Hepatitis B
+
+![Cascade of care for chronic hepatitis B](resources/images/cascade_care_chronic_hep_b.png)
+
+- The purpose of this visualisation is to examine the trend of those initiated and retained on treatment among all people diagnosed with HBV.
+- The cascade of care informs the HBV programme on its effectiveness in initiating and retaining people on treatment 
+- Not all people diagnosed with chronic hepatitis B are eligible for treatment. Treatment eligibility differs across countries and regions and should be defined in accordance with current WHO guidelines or regional or national guidelines.
+- Low diagnosis coverage can occur due to: Limited testing services, low awareness resulting to low detection.
+- Low treatment initiation coverage can occur due to : Poor linkage between diagnosis and treatment initiation, stock out of antiviral drugs, limited  access to treatment facilities (eg in rural and remote areas)
+- Low treatment retention can occur due to: stock out of antiviral drugs, long distance to treatment facilities, economic hardship in areas where treatment is not free or subsidized
+
+### HCV
+
+#### Number tested and diagnosed with chronic HCV
+
+![Number of people tested and diagnosed with chronic hepatitis C](resources/images/tested_diagnosed_hep_c.png)
+
+- **Number of people screened for HCV (HCV core antigen)**: The purpose of this visualisation is to observe the trends in the number of HCV screening tests used. The number of HCV screening tests can be an indicator of how well the healthcare system is functioning in terms of HCV  detection. If the number of tests is lower than expected, it might suggest barriers to access, lack of resources, or insufficient awareness among the population. If low, assess the effectiveness of the HCV program. It helps determine whether initiatives to encourage testing are working and if people at risk are being reached. Shortages of testing supplies, shortage of trained staff, can lead to a decrease in the number of tests performed. Barriers to accessing healthcare, such as clinic closures, reduced hours, or geographic isolation, inefficient sample transportation network can lead to fewer people being tested for HCV. This can be especially significant in rural or underserved areas. 
+- **Number of people diagnosed with chronic hepatitis C**: The purpose of this visualisation is to observe the number of HCV infected population. Monitoring the number of people diagnosed with HCV allows the planning of resources for HCV treatment Monitoring the number of people diagnosed with HCV allows the planning of resources for HCV treatment
+
+#### Proportion of estimated people with chronic hepatitis C diagnosed
+
+Number of people with chronic hepatitis C who have been diagnosed with a positive HCV RNA (PCR) or HCV core antigen by the end of the reporting period divided by Estimated total number of people with chronic hepatitis C infection (positive RNA [PCR] or HCV core antigen)
+
+*Target*: ≥90%
+
+![Proportion of people with chronic hepatitis C who have been diagnosed (%)](resources/images/proportion_people_chronic_hep_c_diagnosed.png)
+
+- The purpose of this visualisation is to observe the proportion of people with chronic hepatitis C (positive RNA [PCR] or HCV core antigen) who have been diagnosed
+- Estimating the proportion of people with chronic hepatitis C who know their infection status measures the entry point to the continuum of care.
+- The trends of  diagnosis coverage should be relatively consistent over time. Identifying a large year-to-year variations allows the program to detect problems with surveillance activities, changes in diagnostic practices (type of tests) and/ or changes in services (trained staff, quality of laboratory testing adherence to HCV diagnosis guidelines, equipment, quality of laboratory testing)
+- This indicator is essential to measure the programmatic targets of the path to elimination and full validation of elimination of hepatitis C as a public health threat by 2030.
+- The WHO goal for coverage of HCV diagnosis in the general population is ≥90% 
+- *National representativeness*: If this indicator is measured only in a subset of facilities, comments should be added on the source of information, sample size and whether the information is representative of all sites where hepatitis treatment and care are delivered
+
+#### Proportion of people with chronic hepatitis C initiating treatment
+
+Number of people diagnosed with chronic hepatitis C infection who have initiated treatment by the end of the reporting period divided by Number of people diagnosed with chronic hepatitis C infection who have initiated treatment by the end of the reporting period
+
+*Target*: ≥80%
+
+![Proportion of people with chronic hepatitis C initiating treatment (%)](resources/images/proportion_people_chronic_hep_c_treatment.png)
+
+- The purpose of this visualisation is to observe progress towards providing treatment to all people with chronic hepatitis C: treatment coverage for people with hepatitis C among those eligible
+- This indicator is essential to measurement of the programmatic targets for the path to elimination and full validation of elimination of hepatitis C as a public health threat by 2030. 
+- The WHO goal for coverage of HCV treatment in the general population is ≥80% 
+- *National representativeness*: If this indicator is measured only in a subset of facilities, comments should be added on the source of information, sample size and whether the information is representative of all sites where hepatitis treatment and care are delivered
+
+#### Cascade of Care for Chronic Hepatitis C
+
+![Cascade of care for chronic hepatitis C](resources/images/cascade_care_chronic_hep_c.png)
+
+- The purpose of this visualisation is to examine the trend of those initiated and completed treatment among all people diagnosed with HCV.
+- The cascade of care informs the HCV programme on its effectiveness in initiating treatment and curing those treated 
+- Low diagnosis coverage can occur due to: Limited testing services, low awareness resulting to low detection.
+- Low treatment initiation coverage can occur due to : Poor linkage between diagnosis and treatment initiation, stock out of antiviral drugs, limited  access to treatment facilities (eg in rural and remote areas)
+- Low treatment completion can occur due to: stock out of antiviral drugs, long distance to treatment facilities, economic hardship in areas where treatment is not free or subsidized
+
+## Data Sets
+
+As described above, dashboards are populated using the aggregate data model, using DHIS2 indicators. Aggregate datasets, data elements and category combinations have been configured to serve the analytics based on the dimensions of analysis included in the strategic information and data use guidelines.
+
+These datasets can be used for aggregated reporting among sites that do not yet have Tracker; or sites that submit routine reports that aggregate data from another individual level data collection tool.
+
+There are two (2) distinct datasets for capturing Hepatitis data. These have been designed based on the analytical needs represented in the WHO’s analysis framework:
+- Hepatitis
+- Hepatitis - Population estimation
+
+### Hepatitis
+
+This dataset contains the main source of information for the analysis of Hepatitis programs at national/subnational level:
+- HEP - Pregnant women tested for HBsAg
+- HEP - Pregnant women tested positive for HBsAg
+- HEP - Pregnant women initiated antiviral therapy for HBV
+- HEP - People tested for HBV (HBsAg)
+- HEP - People diagnosed with chronic HBV
+- HEP - People initiated on HBV treatment
+- HEP - People currently on treatment for chronic HBV
+- HEP - People tested for HCV (HCV antibody)
+- HEP - People diagnosed with chronic HCV (HCV RNA or HCV core antigen positive)
+- HEP - People initiated on HCV treatment
+- HEP - People completing HCV treatment
+
+### Hepatitis - Population estimation
+
+This dataset contains two (2) data elements which are not derived from routine reporting and are typically made available by the Hepatitis programme on an annual basis. The dataset should be assigned to the lowest administrative level for which high-quality estimates exist and can be used for analysis.
+
+The data elements are:
+- HEP - Estimated number of people infected with chronic HBV
+- HEP - Estimated number of people infected with chronic HCV
+
+These estimates are used for the calculation of the following indicators:
+- HEP – Proportion of people with chronic hepatitis B who have been diagnosed (%)
+- HEP – Proportion of people with chronic hepatitis C who have been diagnosed (%)
+
+## User group
+
+|     User group     |      Metadata     |         Data         |
+|:------------------:|:-----------------:|:--------------------:|
+| HEP - Admin        | Can edit and view | No Access            |
+| HEP - Access       | Can view only     | Can view only        |
+| HEP - Data Capture | Can view only     | Can capture and view |
+
+## References
+
+WHO (2024) Consolidated guidelines on person-centred viral hepatitis strategic information: using data to support country scale-up of hepatitis prevention, diagnosis and treatment services
+https://www.who.int/publications/i/item/9789240091313
+
+Global health sector strategies on, respectively, HIV, viral hepatitis and sexually transmitted infections for the period 2022–2030. Geneva: World Health Organization; 2022
+https://iris.who.int/handle/10665/360348
+
+Guidance for country validation of viral hepatitis elimination and path to elimination: technical report. Geneva: World Health Organization; 2023
+https://iris.who.int/handle/10665/373186
+
+
+
 
 
 
