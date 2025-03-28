@@ -5,6 +5,7 @@
 The DHIS2 Hepatitis toolkit is based on the latest WHO [Consolidated guidelines on person-centred viral hepatitis strategic information: using data to support country scale-up of hepatitis prevention, diagnosis and treatment services](https://www.who.int/publications/i/item/9789240091313).
 
 This toolkit includes:
+
 - WHO-recommended dashboard analyses for monitoring hepatitis programs and using key metrics to adjust programming and drive impact
 - Aggregate datasets and data elements to model aggregated tracker data for performant, anonymized analytics
 
@@ -37,6 +38,7 @@ This **System Design Guide** provides a **DHIS2-based approach** for monitoring 
 The Hepatitis system design focuses on meeting the needs of end users at all levels of the health system, including those responsible for implementing Hepatitis programmes in countries. This guide may be used as a resource to conduct trainings of hepatitis data managers for decision making as well as trainings of data entry staff for data capture at the facility level. 
 
 These users may include:
+
 - **Hepatitis program managers & staff (national & sub-national)**: data users who are responsible for routine analysis of data, using data to improve operations and programme strategies, and providing data-driven feedback to programme staff, including implementing partners, facilities, and other service delivery points
 - **Hepatitis programme data managers**: users who are responsible for overseeing data collection, management, data quality, analysis and reporting functions for the national Hepatitis programme
 - **System admins/HMIS focal points**: MOH staff and/or core DHIS2 team responsible for maintaining and improving data systems for health programmes, integrating data streams into national platforms, providing technical support for system design, adaptation and end user support; and maintaining the DHIS2 system over time
@@ -218,6 +220,7 @@ There are two (2) distinct datasets for capturing Hepatitis data. These have bee
 ### Hepatitis
 
 This dataset contains the main source of information for the analysis of Hepatitis programs at national/subnational level:
+
 - HEP - Pregnant women tested for HBsAg
 - HEP - Pregnant women tested positive for HBsAg
 - HEP - Pregnant women initiated antiviral therapy for HBV
@@ -235,10 +238,12 @@ This dataset contains the main source of information for the analysis of Hepatit
 This dataset contains two (2) data elements which are not derived from routine reporting and are typically made available by the Hepatitis programme on an annual basis. The dataset should be assigned to the lowest administrative level for which high-quality estimates exist and can be used for analysis.
 
 The data elements are:
+
 - HEP - Estimated number of people infected with chronic HBV
 - HEP - Estimated number of people infected with chronic HCV
 
 These estimates are used for the calculation of the following indicators:
+
 - HEP – Proportion of people with chronic hepatitis B who have been diagnosed (%)
 - HEP – Proportion of people with chronic hepatitis C who have been diagnosed (%)
 
